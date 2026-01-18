@@ -5,6 +5,8 @@
 !/Config.cs
 !/Program.cs
 !/packages.config
+!/Properties/
+!/Properties/**
 
 
 !**/*.nfproj
