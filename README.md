@@ -6,6 +6,8 @@ A tiny project using NanoFramework that implements the [BotWave](https://github.
 git clone https://github.com/douxxtech/BotWaveStatus_ESP32 
 ```
 
+Edit Config.cs with your settings
+
 Then open it with visual studio (make sure to have the [nanoframework](https://docs.nanoframework.net/content/getting-started-guides/getting-started-managed.html) extention and to have nanoff flashed) and do whatever they want you to do to get that flashed on your board. 
 
 ## An issue ?
