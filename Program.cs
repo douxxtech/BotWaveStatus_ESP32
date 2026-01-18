@@ -10,6 +10,11 @@ namespace BotWaveStatus_ESP32
     {
         public static void Main()
         {
+            Debug.WriteLine("Welcome to BotWaveStatus_ESP32, dear developer !");
+            Debug.WriteLine("Github: https://git.douxx.tech/BotWaveStatus_ESP32/");
+            Debug.WriteLine("The program will now start...");
+
+
             ScreenManager screen = ScreenManager.Init();
             LedManager? ledManager = null;
             if (Config.USE_LED) ledManager = LedManager.Init();
