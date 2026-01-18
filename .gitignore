@@ -11,5 +11,6 @@
 
 !**/*.nfproj
 !*.gitignore
+!/*.png
 !LICENSE
 !README.md

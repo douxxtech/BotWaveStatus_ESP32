@@ -1,5 +1,7 @@
 # BotWave Status Displayer For ESP32-S3
-A tiny project using NanoFramework that implements the [BotWave](https://github.com/dpipstudio/botwave) protocol to display statistics. It in fact was made using the [heltec v4](https://heltec.org/project/wifi-lora-32-v4/), no other boards are officially supported.
+A tiny project using NanoFramework that implements the [BotWave](https://github.com/dpipstudio/botwave) protocol to display statistics. It in fact was made using the [heltec v4](https://heltec.org/project/wifi-lora-32-v4/), no other boards are officially supported.  
+
+<img src="preview.png" width="200"/>
 
 ## How To Use It
 ```bash
